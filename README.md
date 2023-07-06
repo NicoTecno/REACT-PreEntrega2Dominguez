@@ -1,4 +1,4 @@
-![GIF_PaginaWeb_React](https://github.com/NicoTecno/PreEntrega2Dominguez/assets/125984535/87b2581d-570f-4e7a-940e-b4f4370aee2d)
+![GIF_PaginaWeb_React](https://github.com/NicoTecno/PreEntrega2Dominguez/assets/125984535/43b9db9a-7711-4a70-ab73-88a83e3f585b)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
